@@ -17,3 +17,5 @@ Work on existing web3 projects;
 - NodeJS Engineer
 
 You will work with the senior team and have support where needed. 
+
+The ideal person is someone working full stack in web2 and want to make the move to web3 and building for the permaweb. 
